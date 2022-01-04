@@ -1,14 +1,16 @@
 # Compases
 Resuelve la unidad de tiempo, de parte y de compás de cualquier compás simple, compás o amalgama.
 
-# Requerimientos
+# Requirements
 You need to install the json and requests libraries with the nexts command.
 ```bash
 pip install python-math
 ```
 
-# Uso
-Solo hay que descargar el archivo compases.py y ejecutar el siguiente comando en consola.
+# Run file
+Just download the compases.py file and execute the following command in the console.
 ```bash
 python compases.py
 ```
+Or you can run it on Google Colab.
+https://colab.research.google.com/drive/1Rv1a9rOYFd4KuEcxQrjdg3VRuEjsdrqh?usp=sharing
